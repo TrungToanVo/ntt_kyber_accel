@@ -1,0 +1,1 @@
+--nolog -debug "off" "tb_mod_mult" -s "tb_mod_mult_snap" 

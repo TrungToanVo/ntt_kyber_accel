@@ -1,0 +1,265 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\sim
+vbutterfly_unit
+!i10b 1
+!s100 <T63[Z44[]PKl1ZH`;Mcb1
+I1L>?^1biJ8jClXW`J8THB2
+VPP]XW9g:NI^n?RZWa`G;J3
+Z1 dC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\sim
+Z2 w1795013182
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\butterfly_unit.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\butterfly_unit.v
+L0 22
+Z3 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z4 !s108 1795014819.785000
+Z5 !s107 C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/tb/tb_ntt_top.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/tb/tb_butterfly.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/tb/tb_mod_mult.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_axil_top.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_core.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_ctrl.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_addr_gen.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\coeff_mem.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\twiddle_rom.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\butterfly_unit.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\mod_mult.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\mod_sub.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\mod_add.v|
+Z6 !s90 -quiet|-work|work|+incdir+C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/rtl|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\mod_add.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\mod_sub.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\mod_mult.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\butterfly_unit.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\twiddle_rom.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\coeff_mem.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_addr_gen.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_ctrl.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_core.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_axil_top.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/tb/tb_mod_mult.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/tb/tb_butterfly.v|C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/tb/tb_ntt_top.v|
+!s101 -O0
+Z7 o-quiet -work work -O0
+Z8 !s92 -quiet -work work {+incdir+C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/rtl} -O0
+vcoeff_mem
+!i10b 1
+!s100 nMEYfj0D;[0R5aNNCAgfn1
+I]j[DV^:E]@6dP^?jd5NkS1
+V0_fQDHOTLiGQnIN4bdDdO1
+R1
+R2
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\coeff_mem.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\coeff_mem.v
+L0 14
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7
+R8
+vmod_add
+!i10b 1
+!s100 @8F[3XC=YB0ikI8DeceeQ0
+Ie0O?YJ@mI6Z9I<YKiloV>3
+VBE6BPEO9<j?D0fQWzZES=2
+R1
+R2
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\mod_add.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\mod_add.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7
+R8
+vmod_mult
+!i10b 1
+!s100 4FaV_iKSVgzgE;=>IF_nB0
+Id>kVU@bRTlPfSHP>RB8[g2
+V8R]S>cdicJY?Nm3_CRKo23
+R1
+R2
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\mod_mult.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\mod_mult.v
+L0 21
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7
+R8
+vmod_sub
+!i10b 1
+!s100 Ro>XASYg@N^=f@LjgFBQ<0
+IiV]R6^IPUgkN?BS0i`4Xa1
+VG4>hfeO82n7Z4hR?hEIo@2
+R1
+R2
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\mod_sub.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\mod_sub.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7
+R8
+vntt_addr_gen
+!i10b 1
+!s100 KJVV2ZgFNla2N[k@UPU>N1
+IN7iMc_0bWjoaDjlQm6ZgB0
+VNHhD=j:SgHWmn6P;=32KU3
+R1
+R2
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_addr_gen.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_addr_gen.v
+L0 16
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7
+R8
+vntt_axil_top
+!i10b 1
+!s100 Y7dF`aDQzYBzOhVfV:UGM2
+IHbXjCN[F@S;J9`IgCE<6T3
+V79P?Z2ABlDg91i;S2_Rj?1
+R1
+w1795013278
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_axil_top.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_axil_top.v
+L0 19
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7
+R8
+vntt_core
+!i10b 1
+!s100 69I_7WWHcff0JUkZ=ZFdK1
+I]9ma6_D?YE@5Jc7ZZnjz92
+V:?50DVYiKb<UFUTo`gO8>0
+R1
+Z9 w1795013247
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_core.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_core.v
+L0 15
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7
+R8
+vntt_ctrl
+!i10b 1
+!s100 elcX0<WeL82d3CU9V7ZCA1
+IzH@HBRQVi_hbeQKdK3Kah0
+V^7Q57E[FWK6DO`VUiGILE0
+R1
+R9
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_ctrl.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\ntt_ctrl.v
+L0 20
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7
+R8
+vtb_butterfly
+!i10b 1
+!s100 IA[0m4C6N7>LcC:?<zG8n1
+IU7NdgT7VJjOmoh@KjYzZi0
+VZ6>SmEI3261XN46ZZ9SIY3
+R1
+Z10 w1795013360
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/tb/tb_butterfly.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/tb/tb_butterfly.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7
+R8
+vtb_mod_mult
+!i10b 1
+!s100 MJE?<=IA5PSHi>FaIf[<;1
+IVmaQaa;b9EZ^k5S:>PJMS2
+VIQTNb]glXJiK]CUCJWm_d0
+R1
+w1795013381
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/tb/tb_mod_mult.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/tb/tb_mod_mult.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7
+R8
+vtb_ntt_top
+!i10b 1
+!s100 5LnhW6_U:Cmza=5eCUY8[3
+ITd6WWm2Af2GQTFhcDVbH;3
+VUe_R0[_IYA]lL4TgAD:6Z1
+R1
+R10
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/tb/tb_ntt_top.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel/tb/tb_ntt_top.v
+L0 15
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7
+R8
+vtwiddle_rom
+!i10b 1
+!s100 EPDRQ:@z6UF;nnBAYP:0K3
+ID]l83m;fk4NU4Y^Y?QD0i3
+VRcARX4MKDOHh0kOl;mAU<2
+R1
+w1795014819
+8C:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\twiddle_rom.v
+FC:\Users\Toan\.gemini\antigravity\scratch\ntt_kyber_accel\rtl\twiddle_rom.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7
+R8

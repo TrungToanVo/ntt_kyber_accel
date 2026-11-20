@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_ntt_top_snap/xsimk.exe -runall -simmode gui -wdb tb_ntt_top_snap.wdb -simrunnum 0 -socket 51294
+Design successfully loaded
+Design Loading Memory Usage: 12960 KB (Peak: 12960 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 13948 KB (Peak: 13948 KB)
+Simulation CPU Usage: 29233 ms

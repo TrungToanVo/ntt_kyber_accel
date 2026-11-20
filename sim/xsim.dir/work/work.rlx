@@ -1,0 +1,17 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/butterfly_unit.v,1795015139,verilog,,C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/twiddle_rom.v,,butterfly_unit,,,,,,,,
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/coeff_mem.v,1795013182,verilog,,C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/ntt_addr_gen.v,,coeff_mem,,,,,,,,
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/mod_add.v,1795015135,verilog,,C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/mod_sub.v,,mod_add,,,,,,,,
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/mod_mult.v,1795015138,verilog,,C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/butterfly_unit.v,,mod_mult,,,,,,,,
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/mod_sub.v,1795015136,verilog,,C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/mod_mult.v,,mod_sub,,,,,,,,
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/ntt_addr_gen.v,1795013182,verilog,,C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/ntt_ctrl.v,,ntt_addr_gen,,,,,,,,
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/ntt_axil_top.v,1795013278,verilog,,C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/tb/tb_mod_mult.v,,ntt_axil_top,,,,,,,,
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/ntt_core.v,1795013247,verilog,,C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/ntt_axil_top.v,,ntt_core,,,,,,,,
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/ntt_ctrl.v,1795013247,verilog,,C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/ntt_core.v,,ntt_ctrl,,,,,,,,
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/twiddle_rom.v,1795015074,verilog,,C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/rtl/coeff_mem.v,,twiddle_rom,,,,,,,,
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/tb/tb_butterfly.v,1795013360,verilog,,C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/tb/tb_ntt_top.v,,tb_butterfly,,,,,,,,
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/tb/tb_mod_mult.v,1795013381,verilog,,C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/tb/tb_butterfly.v,,tb_mod_mult,,,,,,,,
+C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/tb/tb_ntt_top.v,1795015523,verilog,,,,tb_ntt_top,,,,,,,,

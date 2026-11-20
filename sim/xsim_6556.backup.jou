@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# xsim v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Wed Nov 18 22:23:49 2026
+# Process ID: 6556
+# Current directory: C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/sim
+# Command line: xsim.exe -nolog -mode tcl -source {xsim.dir/tb_butterfly_snap/xsim_script.tcl}
+# Log file: 
+# Journal file: C:/Users/Toan/.gemini/antigravity/scratch/ntt_kyber_accel/sim\xsim.jou
+# Running On: DESKTOP-A0UKM3N, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 14702 MB
+#-----------------------------------------------------------
+source xsim.dir/tb_butterfly_snap/xsim_script.tcl
+run -all
